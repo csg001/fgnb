@@ -71,7 +71,6 @@ int main(void) {
   b = 2;
   c = a + b;
   c += c;
-  c += b;
   /* USER CODE END 1 */
 
   /* MPU
